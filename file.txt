@@ -1,0 +1,5 @@
+Veena, 23, Mankar, Female, Student, YES
+naveen, 12, mankar, Male, Student, YES
+ishaan, 23, ishaan@gmail.com, Male, Student, YES
+priya, 56, priya@abc.com, Female, Teacher, YES
+kiyara, 41, kiyara@qwe.com, Female, Teacher, YES
