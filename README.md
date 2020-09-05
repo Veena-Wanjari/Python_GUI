@@ -9,3 +9,7 @@ Files Included:
 3) Notebook created (tkinter_notebook.py)
 4) Widget created with written to text file (tkinter_widget.py + file.txt)
 5) Calculator with tkinter GUI
+6) BMI Calculator
+7) Addtion of two numbers
+8) Weather prediction
+
